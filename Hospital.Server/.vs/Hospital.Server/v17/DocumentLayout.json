@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\Hospital.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2BC05D-39BB-4AC7-B5F0-66F00D380C23}|Hospital.Server\\Hospital.Server.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\hospital.server\\hospital.server\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2BC05D-39BB-4AC7-B5F0-66F00D380C23}|Hospital.Server\\Hospital.Server.csproj|solutionrelative:hospital.server\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2BC05D-39BB-4AC7-B5F0-66F00D380C23}|Hospital.Server\\Hospital.Server.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\hospital.server\\hospital.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D2BC05D-39BB-4AC7-B5F0-66F00D380C23}|Hospital.Server\\Hospital.Server.csproj|solutionrelative:hospital.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2BC05D-39BB-4AC7-B5F0-66F00D380C23}|Hospital.Server\\Hospital.Server.csproj|c:\\users\\yashnov\\desktop\\errar\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0440\u0430\u0431\u043E\u0442\u0430\\hospital.server\\hospital.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2BC05D-39BB-4AC7-B5F0-66F00D380C23}|Hospital.Server\\Hospital.Server.csproj|solutionrelative:hospital.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\Hospital.Server\\Hospital.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\Hospital.Server\\Hospital.Server\\Program.cs",
+              "RelativeToolTip": "Hospital.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:18:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\Hospital.Server\\Hospital.Server\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Hospital.Server\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\Hospital.Server\\Hospital.Server\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Hospital.Server\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBQAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:14:12.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\Hospital.Server\\Hospital.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Hospital.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yashnov\\Desktop\\ErrAr\\\u0432\u0441\u044F\u043A\u043E\u0435\\\u0420\u0430\u0431\u043E\u0442\u0430\\Hospital.Server\\Hospital.Server\\appsettings.json",
+              "RelativeToolTip": "Hospital.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T07:35:36.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
